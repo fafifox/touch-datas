@@ -1624,6 +1624,18 @@
 			"filename": "assets/ui/login/strip.png",
 			"version": "oukjft36"
 		},
+		"assets/ui/networkIndicator/networkBad.png": {
+			"filename": "assets/ui/networkIndicator/networkBad.png",
+			"version": "9GW2qFOQ"
+		},
+		"assets/ui/networkIndicator/networkGood.png": {
+			"filename": "assets/ui/networkIndicator/networkGood.png",
+			"version": "51CWb1WV"
+		},
+		"assets/ui/networkIndicator/networkSlow.png": {
+			"filename": "assets/ui/networkIndicator/networkSlow.png",
+			"version": "OBk22rBP"
+		},
 		"assets/ui/mount/bigGaugeCursor.png": {
 			"filename": "assets/ui/mount/bigGaugeCursor.png",
 			"version": "6A55Ew94"
@@ -1707,18 +1719,6 @@
 		"assets/ui/mount/wheat.png": {
 			"filename": "assets/ui/mount/wheat.png",
 			"version": "04ObZYOk"
-		},
-		"assets/ui/networkIndicator/networkBad.png": {
-			"filename": "assets/ui/networkIndicator/networkBad.png",
-			"version": "9GW2qFOQ"
-		},
-		"assets/ui/networkIndicator/networkGood.png": {
-			"filename": "assets/ui/networkIndicator/networkGood.png",
-			"version": "51CWb1WV"
-		},
-		"assets/ui/networkIndicator/networkSlow.png": {
-			"filename": "assets/ui/networkIndicator/networkSlow.png",
-			"version": "OBk22rBP"
 		},
 		"assets/ui/optionsButtons/btn_alert_frame0.png": {
 			"filename": "assets/ui/optionsButtons/btn_alert_frame0.png",
@@ -2176,34 +2176,6 @@
 			"filename": "assets/ui/shop/TitleBoxPart3.png",
 			"version": "lZoRy5aM"
 		},
-		"assets/ui/social/defender.png": {
-			"filename": "assets/ui/social/defender.png",
-			"version": "weW+g5aq"
-		},
-		"assets/ui/social/forward.png": {
-			"filename": "assets/ui/social/forward.png",
-			"version": "Lyftze9n"
-		},
-		"assets/ui/social/ownTeam.png": {
-			"filename": "assets/ui/social/ownTeam.png",
-			"version": "lDefAGu2"
-		},
-		"assets/ui/social/social-bg.jpg": {
-			"filename": "assets/ui/social/social-bg.jpg",
-			"version": "coESx1iE"
-		},
-		"assets/ui/social/tx_iconTaxCollector.png": {
-			"filename": "assets/ui/social/tx_iconTaxCollector.png",
-			"version": "+4jL+mv2"
-		},
-		"assets/ui/social/tx_prismIcon.png": {
-			"filename": "assets/ui/social/tx_prismIcon.png",
-			"version": "9nqu91+P"
-		},
-		"assets/ui/social/tx_villageIcon.png": {
-			"filename": "assets/ui/social/tx_villageIcon.png",
-			"version": "BZzz53sw"
-		},
 		"assets/ui/slots/Forgemagie_tx_slot.png": {
 			"filename": "assets/ui/slots/Forgemagie_tx_slot.png",
 			"version": "LL+vCjgi"
@@ -2291,6 +2263,34 @@
 		"assets/ui/slots/tx_slotLockedimg.png": {
 			"filename": "assets/ui/slots/tx_slotLockedimg.png",
 			"version": "MmLHw2uN"
+		},
+		"assets/ui/social/defender.png": {
+			"filename": "assets/ui/social/defender.png",
+			"version": "weW+g5aq"
+		},
+		"assets/ui/social/forward.png": {
+			"filename": "assets/ui/social/forward.png",
+			"version": "Lyftze9n"
+		},
+		"assets/ui/social/ownTeam.png": {
+			"filename": "assets/ui/social/ownTeam.png",
+			"version": "lDefAGu2"
+		},
+		"assets/ui/social/social-bg.jpg": {
+			"filename": "assets/ui/social/social-bg.jpg",
+			"version": "coESx1iE"
+		},
+		"assets/ui/social/tx_iconTaxCollector.png": {
+			"filename": "assets/ui/social/tx_iconTaxCollector.png",
+			"version": "+4jL+mv2"
+		},
+		"assets/ui/social/tx_prismIcon.png": {
+			"filename": "assets/ui/social/tx_prismIcon.png",
+			"version": "9nqu91+P"
+		},
+		"assets/ui/social/tx_villageIcon.png": {
+			"filename": "assets/ui/social/tx_villageIcon.png",
+			"version": "BZzz53sw"
 		},
 		"assets/ui/socialNetworks/facebook.png": {
 			"filename": "assets/ui/socialNetworks/facebook.png",
@@ -2740,6 +2740,26 @@
 			"filename": "assets/ui/login/social/twitter.png",
 			"version": "IquyFRI5"
 		},
+		"assets/ui/login/splashscreennews/splash-screen-joute2-de.jpg": {
+			"filename": "assets/ui/login/splashscreennews/splash-screen-joute2-de.jpg",
+			"version": "dPCAN7h7"
+		},
+		"assets/ui/login/splashscreennews/splash-screen-joute2-en.jpg": {
+			"filename": "assets/ui/login/splashscreennews/splash-screen-joute2-en.jpg",
+			"version": "oSeYv2Vk"
+		},
+		"assets/ui/login/splashscreennews/splash-screen-joute2-es.jpg": {
+			"filename": "assets/ui/login/splashscreennews/splash-screen-joute2-es.jpg",
+			"version": "sGgMIsLC"
+		},
+		"assets/ui/login/splashscreennews/splash-screen-joute2-fr.jpg": {
+			"filename": "assets/ui/login/splashscreennews/splash-screen-joute2-fr.jpg",
+			"version": "dxiQL2sE"
+		},
+		"assets/ui/login/splashscreennews/splash-screen-joute2-it.jpg": {
+			"filename": "assets/ui/login/splashscreennews/splash-screen-joute2-it.jpg",
+			"version": "fbnJkHdi"
+		},
 		"assets/ui/login/splashscreennews/splash-screen-nains-de.jpg": {
 			"filename": "assets/ui/login/splashscreennews/splash-screen-nains-de.jpg",
 			"version": "C8lQCE93"
@@ -2815,6 +2835,10 @@
 		"assets/ui/login/splashscreennews/splash-screen-toa-de.jpg": {
 			"filename": "assets/ui/login/splashscreennews/splash-screen-toa-de.jpg",
 			"version": "Id17KXRJ"
+		},
+		"assets/ui/login/splashscreennews/splash-screen-joute2-pt.jpg": {
+			"filename": "assets/ui/login/splashscreennews/splash-screen-joute2-pt.jpg",
+			"version": "2af+4bY2"
 		},
 		"assets/ui/login/splashscreennews/splash-screen-toa-en.jpg": {
 			"filename": "assets/ui/login/splashscreennews/splash-screen-toa-en.jpg",
