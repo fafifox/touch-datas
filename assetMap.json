@@ -660,14 +660,6 @@
 			"filename": "assets/ui/banner/tabSpellsOn.png",
 			"version": "10iO1odE"
 		},
-		"assets/ui/bitmapFonts/atlas.json": {
-			"filename": "assets/ui/bitmapFonts/atlas.json",
-			"version": "P/5Z34r9"
-		},
-		"assets/ui/bitmapFonts/atlas.png": {
-			"filename": "assets/ui/bitmapFonts/atlas.png",
-			"version": "Hilm2oJ9"
-		},
 		"assets/ui/bars/aqua.png": {
 			"filename": "assets/ui/bars/aqua.png",
 			"version": "nHfro0WY"
@@ -711,6 +703,14 @@
 		"assets/ui/bars/yellow.png": {
 			"filename": "assets/ui/bars/yellow.png",
 			"version": "hvdOrFbT"
+		},
+		"assets/ui/bitmapFonts/atlas.json": {
+			"filename": "assets/ui/bitmapFonts/atlas.json",
+			"version": "P/5Z34r9"
+		},
+		"assets/ui/bitmapFonts/atlas.png": {
+			"filename": "assets/ui/bitmapFonts/atlas.png",
+			"version": "Hilm2oJ9"
 		},
 		"assets/ui/borderArrow/down.png": {
 			"filename": "assets/ui/borderArrow/down.png",
@@ -1624,18 +1624,6 @@
 			"filename": "assets/ui/login/strip.png",
 			"version": "oukjft36"
 		},
-		"assets/ui/networkIndicator/networkBad.png": {
-			"filename": "assets/ui/networkIndicator/networkBad.png",
-			"version": "9GW2qFOQ"
-		},
-		"assets/ui/networkIndicator/networkGood.png": {
-			"filename": "assets/ui/networkIndicator/networkGood.png",
-			"version": "51CWb1WV"
-		},
-		"assets/ui/networkIndicator/networkSlow.png": {
-			"filename": "assets/ui/networkIndicator/networkSlow.png",
-			"version": "OBk22rBP"
-		},
 		"assets/ui/mount/bigGaugeCursor.png": {
 			"filename": "assets/ui/mount/bigGaugeCursor.png",
 			"version": "6A55Ew94"
@@ -1719,6 +1707,18 @@
 		"assets/ui/mount/wheat.png": {
 			"filename": "assets/ui/mount/wheat.png",
 			"version": "04ObZYOk"
+		},
+		"assets/ui/networkIndicator/networkBad.png": {
+			"filename": "assets/ui/networkIndicator/networkBad.png",
+			"version": "9GW2qFOQ"
+		},
+		"assets/ui/networkIndicator/networkGood.png": {
+			"filename": "assets/ui/networkIndicator/networkGood.png",
+			"version": "51CWb1WV"
+		},
+		"assets/ui/networkIndicator/networkSlow.png": {
+			"filename": "assets/ui/networkIndicator/networkSlow.png",
+			"version": "OBk22rBP"
 		},
 		"assets/ui/optionsButtons/btn_alert_frame0.png": {
 			"filename": "assets/ui/optionsButtons/btn_alert_frame0.png",
@@ -2760,6 +2760,10 @@
 			"filename": "assets/ui/login/splashscreennews/splash-screen-joute2-it.jpg",
 			"version": "fbnJkHdi"
 		},
+		"assets/ui/login/splashscreennews/splash-screen-joute2-pt.jpg": {
+			"filename": "assets/ui/login/splashscreennews/splash-screen-joute2-pt.jpg",
+			"version": "2af+4bY2"
+		},
 		"assets/ui/login/splashscreennews/splash-screen-nains-de.jpg": {
 			"filename": "assets/ui/login/splashscreennews/splash-screen-nains-de.jpg",
 			"version": "C8lQCE93"
@@ -2835,10 +2839,6 @@
 		"assets/ui/login/splashscreennews/splash-screen-toa-de.jpg": {
 			"filename": "assets/ui/login/splashscreennews/splash-screen-toa-de.jpg",
 			"version": "Id17KXRJ"
-		},
-		"assets/ui/login/splashscreennews/splash-screen-joute2-pt.jpg": {
-			"filename": "assets/ui/login/splashscreennews/splash-screen-joute2-pt.jpg",
-			"version": "2af+4bY2"
 		},
 		"assets/ui/login/splashscreennews/splash-screen-toa-en.jpg": {
 			"filename": "assets/ui/login/splashscreennews/splash-screen-toa-en.jpg",
